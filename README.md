@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 ![Screenshot_07-Feb_21-37-27_3299](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/83e744b1-a662-43c9-bdbd-7b83c8f2daf8)
 
-![image](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/433d8aed-f113-41a7-95d4-5ea9cf7fc02f)
+
 
 
 
