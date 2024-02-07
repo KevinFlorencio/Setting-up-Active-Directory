@@ -34,6 +34,9 @@ ________________________________________________________________________________
 
 ![Screenshot_07-Feb_21-36-26_25915](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/eab67cd9-c1c8-42eb-bc2b-bf665ecbd6fe)
 
+![Screenshot_07-Feb_21-36-35_4847](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/b8ca585d-df08-4e5a-93a3-700531f2835d)
+
+
 
 
 
