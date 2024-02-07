@@ -38,6 +38,12 @@ ________________________________________________________________________________
 
 ![Screenshot_07-Feb_21-36-50_12237](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/2dca0df4-d432-4d85-ac9a-1bc9f1e3aaf5)
 
+![Screenshot_07-Feb_21-36-56_11310](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/c7afca5c-513a-4fe8-8ccb-fa3f84138929)
+
+![Screenshot_07-Feb_21-37-03_11976](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/dbabe6f2-353f-459b-a175-6804734977e0)
+
+![Screenshot_07-Feb_21-37-09_17681](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/eb561d05-41f4-492a-aba7-3b68c02f45f3)
+
 
 
 
