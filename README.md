@@ -10,5 +10,36 @@
 
 
 ![image](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/f8fbf2b3-1efa-4ffe-be95-bc3a68eb4b70)
-_____________________________________________________________________________________________________________________
+
+![Screenshot_07-Feb_21-34-47_23689](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/b3f5145f-01e2-484a-8e55-b5a38134f958)
+
+![Screenshot_07-Feb_21-35-16_3753](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/b66d75e8-0c8d-4eca-95ff-4cf2ab718b6f)
+![Screenshot_07-Feb_21-35-51_23414](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/ceeb18b0-18ad-44e0-8aa3-ecc77fd76a1b)
+
+
+___________________________________________________________________________________
 # Setting up Active Directory Services
+![Screenshot_07-Feb_21-36-03_18160](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/573ceb82-49d3-475d-8d9e-524228bcd684)
+
+![Screenshot_07-Feb_21-36-03_18160](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/dec4c30f-8198-40ab-a81d-9ceebffd37a4)
+
+![Screenshot_07-Feb_21-36-03_18160](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/e0736908-b3cd-46eb-b412-ea3744c72428)
+![Screenshot_07-Feb_21-36-35_4847](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/a203ff90-0a35-4ad8-8215-574a68fb7d58)
+![Screenshot_07-Feb_21-36-50_12237](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/56c5bf38-9e3a-418a-98c0-434379c0ee98)
+
+![Screenshot_07-Feb_21-36-56_11310](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/8a199e5a-b6b6-4a26-8232-649289872ebc)
+
+![Screenshot_07-Feb_21-37-03_11976](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/4d532d2b-ff65-44dd-9f29-9313fa9f5635)
+![Screenshot_07-Feb_21-37-09_17681](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/2fcf0266-d15d-4eea-b3d5-786c5a5d271a)
+
+![Screenshot_07-Feb_21-37-09_17681](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/516f2fa9-dd6a-4451-b025-e1ffcc3c5b88)
+
+![Screenshot_07-Feb_21-37-27_3299](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/83e744b1-a662-43c9-bdbd-7b83c8f2daf8)
+
+
+
+
+
+
+
+
