@@ -68,8 +68,35 @@ ________________________________________________________________________________
 ![Screenshot_07-Feb_21-44-13_26](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/e469d9e7-8f71-4409-9672-0bf27f720409)
 
 
+![Screenshot_07-Feb_21-44-22_32752](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/c38f06c6-f314-4957-bfc5-fe657fbd920e)
 
 
+
+![Screenshot_07-Feb_21-44-38_22570](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/c4b3371a-4122-4cb4-a949-1f062133d6c3)
+
+
+![Screenshot_07-Feb_21-44-49_9655](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/32b77c71-0ed1-4b23-b01d-bc21c5253d50)
+
+
+![Screenshot_07-Feb_21-44-57_26863](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/b34f128c-4182-4652-bb51-5600af329bbc)
+
+
+![Screenshot_07-Feb_21-47-58_18788](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/b44ab22f-2062-445f-b23f-b11f23ffe9b7)
+
+
+![Screenshot_07-Feb_21-48-07_22310](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/20ed6c26-3805-452c-b0cf-caa89d970d1a)
+
+
+![Screenshot_07-Feb_21-49-34_24008](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/dbcd0be8-4817-4ee5-9477-da18d4a1bcef)
+
+
+!
+
+
+![Screenshot_07-Feb_22-38-16_27630](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/c3041a7b-12df-4b41-8243-57aff9a2eb47)
+
+
+![Screenshot_07-Feb_22-38-28_8468](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/21bfe0fa-f00d-4c0c-a4b8-1b662b1e1779)
 
 
 
