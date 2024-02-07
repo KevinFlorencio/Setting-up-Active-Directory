@@ -128,5 +128,8 @@ ________________________________________________________________________________
 
 ![Screenshot_07-Feb_23-27-30_13141](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/f419b427-52b3-4c6c-b6bc-871870deee78)
 
+![Screenshot_07-Feb_23-43-21_26333](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/aa35a64f-cd6f-4d51-83d0-9f4a692bf125)
+
+
 
 
