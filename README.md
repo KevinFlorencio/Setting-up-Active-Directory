@@ -99,6 +99,14 @@ ________________________________________________________________________________
 ![Screenshot_07-Feb_22-38-28_8468](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/21bfe0fa-f00d-4c0c-a4b8-1b662b1e1779)
 ______________________________________________________________________________________________________________________________________________________
 # Setting up users and groups in Active Directory
+![Screenshot_07-Feb_23-23-07_23018](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/2e316536-f28a-4f84-9b11-c7347b85014b)
+
+![Screenshot_07-Feb_23-23-27_396](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/74b2e9cd-be5f-4800-98fc-e022684fa042)
+
+
+
+
+
 
 
 
