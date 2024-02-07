@@ -46,11 +46,6 @@ ________________________________________________________________________________
 
 ![image](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/433d8aed-f113-41a7-95d4-5ea9cf7fc02f)
 
-![Screenshot_07-Feb_21-48-07_22310](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/cf8be1df-8780-4a24-9d7d-91eef6756770)
-
-![Screenshot_07-Feb_21-49-21_16394](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/94975689-10ce-499f-aa51-332f32a21933)
-
-![Screenshot_07-Feb_21-49-34_24008](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/a5984762-85fa-409d-9b3e-900e43271c6b)
 
 
 
