@@ -130,6 +130,20 @@ ________________________________________________________________________________
 
 ![Screenshot_07-Feb_23-43-21_26333](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/aa35a64f-cd6f-4d51-83d0-9f4a692bf125)
 
+# Adding a valid user (low rights)
+![Screenshot_07-Feb_23-44-12_8148](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/41777983-0ea9-4c81-af54-8db68dafae42)
+
+![Screenshot_07-Feb_23-44-35_17603](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/b00bac79-0a01-4cea-93aa-0465b8ec31f9)
+
+
+![Screenshot_07-Feb_23-44-54_6255](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/4295572f-87fb-479f-ae71-4cae3bc8b244)
+
+![Screenshot_07-Feb_23-45-00_6832](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/ebfbd1f9-c57a-4c19-aa6b-cdf99d6c0509)
+
+
+![Screenshot_07-Feb_23-45-06_6687](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/bbe3c870-fd6b-4ac9-8332-2541c2736ff7)
+
+
 
 
 
