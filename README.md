@@ -30,7 +30,7 @@ ________________________________________________________________________________
 # Setting up Active Directory Services
 ![Screenshot_07-Feb_21-36-03_18160](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/573ceb82-49d3-475d-8d9e-524228bcd684)
 
-![Screenshot_07-Feb_21-36-03_18160](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/dec4c30f-8198-40ab-a81d-9ceebffd37a4)
+
 
 ![Screenshot_07-Feb_21-36-03_18160](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/e0736908-b3cd-46eb-b412-ea3744c72428)
 ![Screenshot_07-Feb_21-36-35_4847](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/a203ff90-0a35-4ad8-8215-574a68fb7d58)
