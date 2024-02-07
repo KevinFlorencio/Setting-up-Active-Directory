@@ -27,7 +27,7 @@
 
 
 ___________________________________________________________________________________
-# Setting up Active Directory Services
+# Setting up Active Directory Domain Services
 ![Screenshot_07-Feb_21-36-03_18160](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/573ceb82-49d3-475d-8d9e-524228bcd684)
 
 ![Screenshot_07-Feb_21-36-19_9870](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/5e4d84d8-2d80-49b5-a27f-b5e411bdc1c6)
