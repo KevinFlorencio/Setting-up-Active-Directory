@@ -103,6 +103,9 @@ ________________________________________________________________________________
 
 ![Screenshot_07-Feb_23-23-27_396](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/74b2e9cd-be5f-4800-98fc-e022684fa042)
 
+![Screenshot_07-Feb_23-26-18_18554](https://github.com/KevinFlorencio/Setting-up-Active-Directory/assets/89264965/9ad800ae-0986-4f97-a6d3-e7ef27832e8e)
+
+
 
 
 
