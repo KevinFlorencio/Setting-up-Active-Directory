@@ -1,11 +1,11 @@
 # Setting up Active Directory
 
 ## Objective
-The primary objective of the project "Setting up Active Directory" is to showcase my capability to deploy and configure Active Directory (AD) infrastructure. This endeavor serves as an opportunity to gain a comprehensive understanding of how AD operates at a high level, including its architecture, functionalities, and management principles.
+The primary goal of the "Setting up Active Directory" project is to demonstrate my ability to deploy and configure Active Directory (AD) infrastructure. Through this project, I aim to gain a solid understanding of how AD functions, including its architecture and management principles.
 
-Furthermore, this project aims to extend the functionality of Active Directory by implementing additional features, such as Single Sign-On (SSO) capabilities. By expanding AD's capabilities, the project seeks to enhance user authentication and authorization processes within the IT environment, thereby optimizing operational efficiency and user experience.
+Additionally, I intend to expand the functionality of Active Directory by implementing various features. These enhancements will focus on improving user authentication and authorization processes within the IT environment, thus increasing operational efficiency and enhancing the overall user experience.
 
-Overall, the objective is not only to demonstrate proficiency in setting up and managing Active Directory but also to leverage this foundational knowledge to enhance organizational security, streamline administrative tasks, and facilitate seamless user access across various resources.
+In summary, the objective of this project is to showcase my proficiency in setting up and managing Active Directory. I aim to leverage this knowledge to contribute to organizational security, streamline administrative tasks, and facilitate smooth user access to resources.
 
 _____________________________________________________
 
