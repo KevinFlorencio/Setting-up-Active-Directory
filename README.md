@@ -1,9 +1,11 @@
-# PROJECTNAME
-
+# Setting up Active Directory
 ## Objective
-[Brief Objective - Remove this afterwards]
+The primary objective of the project "Setting up Active Directory" is to showcase my capability to deploy and configure Active Directory (AD) infrastructure. This endeavor serves as an opportunity to gain a comprehensive understanding of how AD operates at a high level, including its architecture, functionalities, and management principles.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Furthermore, this project aims to extend the functionality of Active Directory by implementing additional features, such as Single Sign-On (SSO) capabilities. By expanding AD's capabilities, the project seeks to enhance user authentication and authorization processes within the IT environment, thereby optimizing operational efficiency and user experience.
+
+Overall, the objective is not only to demonstrate proficiency in setting up and managing Active Directory but also to leverage this foundational knowledge to enhance organizational security, streamline administrative tasks, and facilitate seamless user access across various resources.
+
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
