@@ -5,7 +5,7 @@ The primary objective of the project "Setting up Active Directory" is to showcas
 Furthermore, this project aims to extend the functionality of Active Directory by implementing additional features, such as Single Sign-On (SSO) capabilities. By expanding AD's capabilities, the project seeks to enhance user authentication and authorization processes within the IT environment, thereby optimizing operational efficiency and user experience.
 
 Overall, the objective is not only to demonstrate proficiency in setting up and managing Active Directory but also to leverage this foundational knowledge to enhance organizational security, streamline administrative tasks, and facilitate seamless user access across various resources.
-
+_____________________________________________________
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
