@@ -8,18 +8,18 @@ Overall, the objective is not only to demonstrate proficiency in setting up and 
 _____________________________________________________
 
 ### Skills Learned
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Familiarity with Active Directory (AD) fundamentals and basic administration tools.
+- Hands-on experience in configuring and managing AD environments.
+- Problem-solving skills developed through troubleshooting AD-related issues.
+- Increased understanding of AD security principles and best practices.
+_____________________________________________________________________________________
 
 ### Tools Used
 - Windows Server 2019
 - Oracle Virtual Box
 - Active Directory Domain Services
 - Command Prompt
-
+________________________________________________________________________________
 ## Steps
 Each folder contains documentation of the sequential steps undertaken. Each screenshot is accompanied by explanatory text delineating its contents and relevance.
 
