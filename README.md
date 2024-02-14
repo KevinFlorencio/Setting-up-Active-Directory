@@ -14,6 +14,7 @@ _____________________________________________________
 - Hands-on experience in configuring and managing AD environments.
 - Problem-solving skills developed through troubleshooting AD-related issues.
 - Increased understanding of AD security principles and best practices.
+- Configuring DNS reverse-lookup.
 
 _____________________________________________________________________________________
 
